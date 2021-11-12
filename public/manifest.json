@@ -1,6 +1,7 @@
 {
-  "short_name": "Esteroids",
-  "name": "Esteroids",
+  "short_name": "Esteroids UNOFFICIAL",
+  "name": "Esteroids UNOFFICIAL",
+  "description": "The front page of the decentralized web",
   "icons": [
     {
       "src": "favicon.ico",
